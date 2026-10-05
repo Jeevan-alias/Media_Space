@@ -5,7 +5,7 @@ const OFFLINE_ASSETS = [
   '/404.html',
   '/styles.css',
   '/app.js',
-  '/Final%20Logo.jpeg'
+  '/image/Final%20Logo.jpeg'
 ];
 
 self.addEventListener('install', event => {
